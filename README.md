@@ -4,4 +4,4 @@
 
 ### Email: abir.cse76@gmail.com
 
-[ Live url](অ্যাসাইনমেন্টের লাইভ url লিংক দিন)
+[ Live url] [https://kaleidoscopic-tanuki-276880.netlify.app/]
